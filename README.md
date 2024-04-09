@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Mustapha!
+<h2> Hey there! I'm Mustapha!</h2>
 <img align="right" alt="GIF" src="https://github.com/BenamaraMustapha/Developing-an-IoT-system-for-data-acquisition-utilizing-REDIS-and-the-GO-language/assets/119163433/50739033-2c37-473a-b882-75ed0f3decc7" width="500"/>
 
 
