@@ -120,8 +120,6 @@ ________________________________________________________________________________
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/mustapha-benamara-/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/BenamaraMustapha/Developing-an-IoT-system-for-data-acquisition-utilizing-REDIS-and-the-GO-language/assets/119163433/a81ed047-c35a-4ecb-ab35-8da3271274be" width="30" /></a>
-&nbsp; <a href="https://twitter.com/M__Benamara" target="_blank" rel="noopener noreferrer"><img src="https://github.com/BenamaraMustapha/Developing-an-IoT-system-for-data-acquisition-utilizing-REDIS-and-the-GO-language/assets/119163433/04336a6d-ff86-4a81-ae05-6ad22dcef9fa" width="30" /></a>  
-&nbsp; <a href="https://www.instagram.com/mustapha__benamara/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/BenamaraMustapha/Developing-an-IoT-system-for-data-acquisition-utilizing-REDIS-and-the-GO-language/assets/119163433/084ea2f0-b9d0-4c3e-aade-ebd9ca69fc4a" width="30" /></a>  
 &nbsp; <a href="mailto:benamara.mustapha@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/BenamaraMustapha/Developing-an-IoT-system-for-data-acquisition-utilizing-REDIS-and-the-GO-language/assets/119163433/e328f1f9-a4b2-4d84-8b86-381531dd7dc7)"  width="30" /></a>
 </p>
 <br>
